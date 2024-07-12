@@ -29,10 +29,14 @@ form.addEventListener("submit", (event) => {
 
   // Checks if it is a number
   if (isNaN(sum)) {
-    result.innerText =
-      "Division not performed. Invalid data entry. Please enter valid numbers.";
-    console.error("Critical Error: Invalid data entry");
+    document.querySelector(
+      "body"
+    ).innerHTML = `<h1>Something critical went wrong. Please reload the page</h1>`;
+
+    throw new Error("Critical Error invalid data entry");
+
   } else {
     result.innerText = sum;
   }
-});
+}
+);
