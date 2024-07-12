@@ -1,3 +1,7 @@
+DJS02 LOOM VIDEO LINK: []
+
+
+
 # DJS02 Project Brief: Whole Number Divider
 
 This project focuses on enhancing a web-based Whole Number Divider application. It's designed to help students apply their knowledge of error handling, guided by specific user stories. Before proceeding, familiarise yourself with the Gherkin syntax, a crucial tool for understanding user stories and requirements. Refer to the provided reading materials for a comprehensive guide. Below is the HTML and JavaScript code for a “Whole Number Divider”. At the moment it only meets two user stories (see below under “Resolved Stories”). Please ensure that it meets all user stories listed below:
@@ -82,4 +86,3 @@ The provided HTML and JavaScript setup a basic form for inputting two numbers (d
 - Submit your project to the LMS Project Tab for DJS02
 
 This project challenges you to think critically about user input, error handling, and providing a seamless user experience. Ensure your solution is robust, user-friendly, and meets the specified requirements.
-
