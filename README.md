@@ -1,4 +1,4 @@
-DJS02 LOOM VIDEO LINK: []
+DJS02 LOOM VIDEO LINK: [https://www.loom.com/share/cda5aeb163664e599bcb94c90ab48266?sid=ccbdb1d6-f0b6-4397-abb3-1cf76fc61198]
 
 
 
